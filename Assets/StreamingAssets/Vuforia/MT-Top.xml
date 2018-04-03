@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="MT-Top"/>
+</Tracking>
+
+<Assembly name="MT-Tops_assembly">
+<Part name="MT-Top" translation="0 0 0" rotation="AD: 0 0 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.038655 -0.0327865 0.145853" rotation="AD: 1 0.2679491924311227 -1.6407156042244626e-17 180">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

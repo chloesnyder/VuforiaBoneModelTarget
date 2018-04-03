@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Base"/>
+</Tracking>
+
+<Assembly name="Bases_assembly">
+<Part name="Base" translation="0 0 0" rotation="AD: 0 0 0"/>
+<EntryPoint name="viewpoint_0000" translation="-1.9109 -18.213 379.152" rotation="AD: 0.9886346762138674 0.2884680310889179 -0.6580488821264904 209.108">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>
